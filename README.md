@@ -3,6 +3,9 @@
 
 Firefox profile for [Nemo automation framework][2]. `nemo-firefox-profile` is a nemo-plugin written using [firefox-profile-js][1].
 
+# This Fork
+Adds the feature to allow user to specify folder of customized profile
+
 ## Nemo Installation
 
 1. Please install nemo to your project as described here: https://github.com/paypal/nemo/blob/master/README.md
